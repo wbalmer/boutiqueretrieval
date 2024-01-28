@@ -1,0 +1,6 @@
+*.tgz
+*.hdf5
+*.save
+*:Zone.Identifier
+*example
+*multinest
